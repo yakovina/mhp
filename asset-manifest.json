@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/uklon/static/css/main.c198ff33.css",
-    "main.js": "/uklon/static/js/main.a2e23f09.js",
-    "static/js/787.3e20a0d3.chunk.js": "/uklon/static/js/787.3e20a0d3.chunk.js",
-    "static/media/cover.jpg": "/uklon/static/media/cover.9af1d0011deba505776b.jpg",
-    "static/media/orn3.svg": "/uklon/static/media/orn3.d5655bae728ecfa93013de27947914e4.svg",
-    "static/media/orn4.svg": "/uklon/static/media/orn4.2449dc7e745ffbf930b47583ad85b9a6.svg",
-    "static/media/orn5.svg": "/uklon/static/media/orn5.db3f621972ac98ce0820838851b2ea6f.svg",
-    "static/media/rightAns2.webp": "/uklon/static/media/rightAns2.a26fa7e6f2a58ca4ba1b.webp",
-    "static/media/orn1.svg": "/uklon/static/media/orn1.1ff9e79f58bf699bf4e2466f940fb793.svg",
-    "static/media/orn2.svg": "/uklon/static/media/orn2.b0751557ff42843a113dbe003da76684.svg",
-    "static/media/logo.png": "/uklon/static/media/logo.9cc012d5069f5e50febd.png",
-    "static/media/driver2.svg": "/uklon/static/media/driver2.d312d915e7dce3eb331f6ae4af55153e.svg",
-    "static/media/driver1.svg": "/uklon/static/media/driver1.459a85e43da271ae1d8b30023a38bc9f.svg",
-    "static/media/hmarochos_logo.svg": "/uklon/static/media/hmarochos_logo.0ffa78a49e1f5dc96822e87159f16e5c.svg",
-    "index.html": "/uklon/index.html",
-    "main.c198ff33.css.map": "/uklon/static/css/main.c198ff33.css.map",
-    "main.a2e23f09.js.map": "/uklon/static/js/main.a2e23f09.js.map",
-    "787.3e20a0d3.chunk.js.map": "/uklon/static/js/787.3e20a0d3.chunk.js.map"
+    "main.css": "/mhp/static/css/main.c198ff33.css",
+    "main.js": "/mhp/static/js/main.4686615e.js",
+    "static/js/787.3e20a0d3.chunk.js": "/mhp/static/js/787.3e20a0d3.chunk.js",
+    "static/media/cover.jpg": "/mhp/static/media/cover.9af1d0011deba505776b.jpg",
+    "static/media/orn3.svg": "/mhp/static/media/orn3.d5655bae728ecfa93013de27947914e4.svg",
+    "static/media/orn4.svg": "/mhp/static/media/orn4.2449dc7e745ffbf930b47583ad85b9a6.svg",
+    "static/media/orn5.svg": "/mhp/static/media/orn5.db3f621972ac98ce0820838851b2ea6f.svg",
+    "static/media/rightAns2.webp": "/mhp/static/media/rightAns2.a26fa7e6f2a58ca4ba1b.webp",
+    "static/media/orn1.svg": "/mhp/static/media/orn1.1ff9e79f58bf699bf4e2466f940fb793.svg",
+    "static/media/orn2.svg": "/mhp/static/media/orn2.b0751557ff42843a113dbe003da76684.svg",
+    "static/media/logo.png": "/mhp/static/media/logo.9cc012d5069f5e50febd.png",
+    "static/media/driver2.svg": "/mhp/static/media/driver2.d312d915e7dce3eb331f6ae4af55153e.svg",
+    "static/media/driver1.svg": "/mhp/static/media/driver1.459a85e43da271ae1d8b30023a38bc9f.svg",
+    "static/media/hmarochos_logo.svg": "/mhp/static/media/hmarochos_logo.0ffa78a49e1f5dc96822e87159f16e5c.svg",
+    "index.html": "/mhp/index.html",
+    "main.c198ff33.css.map": "/mhp/static/css/main.c198ff33.css.map",
+    "main.4686615e.js.map": "/mhp/static/js/main.4686615e.js.map",
+    "787.3e20a0d3.chunk.js.map": "/mhp/static/js/787.3e20a0d3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c198ff33.css",
-    "static/js/main.a2e23f09.js"
+    "static/js/main.4686615e.js"
   ]
 }
