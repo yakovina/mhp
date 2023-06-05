@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/mhp/static/css/main.c198ff33.css",
-    "main.js": "/mhp/static/js/main.4686615e.js",
+    "main.css": "/mhp/static/css/main.d042e44c.css",
+    "main.js": "/mhp/static/js/main.49448ccb.js",
     "static/js/787.3e20a0d3.chunk.js": "/mhp/static/js/787.3e20a0d3.chunk.js",
     "static/media/cover.jpg": "/mhp/static/media/cover.9af1d0011deba505776b.jpg",
     "static/media/orn3.svg": "/mhp/static/media/orn3.d5655bae728ecfa93013de27947914e4.svg",
@@ -15,12 +15,12 @@
     "static/media/driver1.svg": "/mhp/static/media/driver1.459a85e43da271ae1d8b30023a38bc9f.svg",
     "static/media/hmarochos_logo.svg": "/mhp/static/media/hmarochos_logo.0ffa78a49e1f5dc96822e87159f16e5c.svg",
     "index.html": "/mhp/index.html",
-    "main.c198ff33.css.map": "/mhp/static/css/main.c198ff33.css.map",
-    "main.4686615e.js.map": "/mhp/static/js/main.4686615e.js.map",
+    "main.d042e44c.css.map": "/mhp/static/css/main.d042e44c.css.map",
+    "main.49448ccb.js.map": "/mhp/static/js/main.49448ccb.js.map",
     "787.3e20a0d3.chunk.js.map": "/mhp/static/js/787.3e20a0d3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c198ff33.css",
-    "static/js/main.4686615e.js"
+    "static/css/main.d042e44c.css",
+    "static/js/main.49448ccb.js"
   ]
 }
